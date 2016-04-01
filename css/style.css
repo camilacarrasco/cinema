@@ -1,0 +1,22 @@
+.search{
+	bottom: 700px;
+}
+
+.cartelera{
+	position: relative;
+	display: inline;
+	background: #FB8D34;
+}
+
+.boton{
+	border-radius: 1px solid #FFFFFF;
+
+}
+.fa-caret-square-o-right{
+	position: relative;
+	border-radius: 1px solid #050505;
+}
+.cartelera2{
+	display: inline;
+	background: #FFFFFF;
+}
